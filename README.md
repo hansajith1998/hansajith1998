@@ -6,7 +6,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansajith1998&layout=compact&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansajith1998&layout=compact&count_private=true&theme=tokyonight&langs_count=10)
 
 <br>
 
