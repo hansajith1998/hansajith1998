@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Navod</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate Full stack developer from Srilanka</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hansajith1998&label=Profile%20views&color=0e75b6&style=flat" alt="hansajith1998" /> </p> -->
 
