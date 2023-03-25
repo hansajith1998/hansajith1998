@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/github/followers/hansajith1998?label=Followers&style=social" alt="GitHub Badge">
 </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansajith1998" alt="hansajith1998" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hansajith1998&theme=onedark" alt="hansajith1998" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
