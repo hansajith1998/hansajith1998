@@ -22,33 +22,33 @@
           <img src="https://img.shields.io/twitter/follow/hansajith18?logo=twitter&style=for-the-badge" alt="hansajith1998" />
       </a>
     </p>
-</p>
-<br>
+</p> 
 <p align="center"> 
     <a href="https://github.com/hansajith18/" target="blank">
-      <img align="center" src="https://img.icons8.com/nolan/344/github.png" height="40" width="40" alt="hansajith1998"/>
+      <img align="center" src="https://img.icons8.com/nolan/344/github.png" height="40" alt="hansajith1998"/>
     </a>
     <a href="https://github.com/hansajith1998/" target="blank">
-      <img align="center" src="https://img.icons8.com/nolan/344/github.png" height="40" width="40" title="hansajith1998" alt="hansajith1998"/>
+      <img align="center" src="https://img.icons8.com/nolan/344/github.png" height="40" title="hansajith1998" alt="hansajith1998"/>
     </a>
     <a href="https://twitter.com/hansajith18" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hansajith1998" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hansajith1998" height="30" />
     </a>
     <a href="https://linkedin.com/in/hansajith18" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansajith1998" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hansajith1998" height="30" />
     </a>
     <a href="https://stackoverflow.com/users/12926962" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12926962" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12926962" height="30" />
     </a>
     <a href="https://fb.com/hansajith18" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansajith1998" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hansajith1998" height="30" />
     </a>
     <a href="https://instagram.com/hansajith18" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansajith1998" height="30" width="30" />
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansajith1998" height="30" />
     </a>
     <br>
     <br>
-    📫 How to reach me <a href="mailto:hansajith.synotec@gmail.com"> hansajith.synotec@gmail.com</a>
+    📫 How to reach me <a href="mailto:hansajith.synotec@gmail.com"> hansajith.synotec@gmail.com</a><br>
+    👉 My Personal <a href="https://github.com/hansajith18" target="_blank"> GitHub Account</a>
 </p>
 
 ## 🔥🧑‍💻 GitHub Stats
