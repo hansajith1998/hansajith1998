@@ -46,7 +46,6 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hansajith1998" height="30" />
     </a>
     <br>
-    <br>
     📫 How to reach me <a href="mailto:hansajith.synotec@gmail.com"> hansajith.synotec@gmail.com</a><br>
     👉 My Personal <a href="https://github.com/hansajith18" target="_blank"> GitHub Account</a>
 </p>
