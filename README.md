@@ -59,7 +59,7 @@
   <table style="width:90%;border: 0 none;margin: 0 auto">
     <tr>
       <td colspan="2">
-        <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=hansajith1998&theme=react-dark" alt="activity-graph">
+        <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hansajith1998&theme=react-dark" alt="activity-graph">
       </td>
     </tr>
     <tr>
@@ -359,7 +359,7 @@
 <tr>
 <td>
   <a href="https://www.vtasl.gov.lk/">
-       <img src="https://www.vtasl.gov.lk/public/images/newLogo.png" width="120" style="background-color:white" alt="sliit"/>
+       <img src="https://github.com/hansajith18/repo-assets/raw/master/profile/vta-logo.png" width="120" style="background-color:white" alt="VTA"/>
   </a> <br>
 </td>
 <td>
